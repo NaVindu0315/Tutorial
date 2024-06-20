@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375426975474",
+    "project_id": "tutorial-2e44a",
+    "storage_bucket": "tutorial-2e44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375426975474:android:3450a5a47a8318f94ef26b",
+        "android_client_info": {
+          "package_name": "com.navindu.tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41vzu8elz0OPkHESS_OhNUE4xr93lb50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
